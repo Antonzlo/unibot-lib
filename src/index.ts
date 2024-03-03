@@ -1,7 +1,7 @@
 // create 2 bots from library
 import * as lib from './lib/lib';
 
-const tgbot = lib.BotFactory.createTelegramBot('7065789080:AAExUL-hmhbXUUXbCZRXq7cTsWHquNACeXA');
+const tgbot = lib.BotFactory.createTelegramBot('tg-token');
 const vkbot = lib.BotFactory.createVkBot('vk-token');
 
 // create handlers for both bots
