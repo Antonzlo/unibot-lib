@@ -1,0 +1,17 @@
+{
+  "name": "unibot-lib",
+  "version": "0.0.1",
+  "author": "Antonzlo",
+  "description": "A TypeScript module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "grammy": "latest",
+    "vk-io": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}

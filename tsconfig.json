@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "target": "es6",
+    "module": "commonjs",
+
+    "strict": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+  },
+  "include": ["src/**/*"]
+}
